@@ -1,9 +1,10 @@
 # LocaleRail User Guide
 
-**LocaleRail**  
-**Enterprise TranslationOps by StateRails**
+**Enterprise TranslationOps by StateRails.**
 
-This guide covers LocaleRail v1.1.0 and the four-step Salesforce translation workflow.
+[Back to the LocaleRail README](../README.md) · [Product overview](PRODUCT_OVERVIEW.md) · [Download official releases](https://github.com/staterails/LocaleRail-Releases/releases)
+
+This guide illustrates the LocaleRail v1.1.0 four-step Salesforce translation workflow. For capabilities added in later versions, consult the [current release notes](https://github.com/staterails/LocaleRail-Releases/releases) and the in-application help.
 
 ## 1. Overview
 
@@ -172,7 +173,11 @@ Review request-size settings, delays, retries, throttling, network latency and G
 - Review length failures rather than truncating translations.
 - Keep LocaleRail updated through the built-in updater.
 
-## Repositories
+## Official product and releases
 
-- Source: `https://github.com/staterails/LocaleRail`
-- Releases: `https://github.com/staterails/LocaleRail-Releases`
+LocaleRail is proprietary software developed by StateRails. Its source code is maintained privately and is not distributed through this public repository.
+
+- [LocaleRail product README](../README.md)
+- [Official releases and downloads](https://github.com/staterails/LocaleRail-Releases/releases)
+- [Installation guide](INSTALLATION.md)
+- [Data Handling and Security](DATA_HANDLING_AND_SECURITY.md)
